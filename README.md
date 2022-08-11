@@ -15,7 +15,11 @@ Tambien se le puede adicionar plugins al juego de PC, mas instrucciones en este 
 Tambien pueda usar la herramienta de Mapa Interactivo en la version del PC donde podes teletransportarte de un lugar a otro y aparte saber tu ubicacion de forma precisa.
 (No se si esto funcionara en Wii U.) Link de informacion y descarga del mapa: https://github.com/denizariyan/GTA-Vice-City-Interactive-Map
 
-Para crear mods de manera sencilla dejo el link de la herramienta de rainbomizer: https://github.com/GTAMadman/Vice-City-Rainbomizer
+Para crear mods de manera sencilla dejo el link de la herramienta de rainbomizer: https://github.com/GTAMadman/Vice-City-Rainbomizer 
+
+Dejare la guia de programacion en Wii U de Yawt, la cual explica a detalle, como programar y cuales son las herramientas necesarias para crear aplicaciones o juegos homebrew en Wii U. Link:https://github.com/yawut/ProgrammingOnTheU/blob/master/tutorial/Chapter%201.md
+
+Y el blog de clownancy donde explica de manera general como portear aplicaciones o juegos de android a Wii U. Link: https://clownacy.wordpress.com/2021/02/12/porting-sonic-cd-2011-to-the-wii-u/
 
 Finalmente, dejare el link del codigo fuente de PC como las instrucciones de como compilar tu propia version de PC. Este es el link: https://github.com/td512/re3
 Con el codigo fuente de PC, se puede hacer ports a otras plataformas o consolas con las herramientas necesarias.
